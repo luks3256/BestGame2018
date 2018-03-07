@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Menu geresni.unity
+- path: Assets/Menu v1.unity
   isLoaded: 1
   isActive: 1
