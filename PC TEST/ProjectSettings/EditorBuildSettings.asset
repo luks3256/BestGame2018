@@ -9,14 +9,29 @@ EditorBuildSettings:
     path: Assets/Manu.unity
     guid: 9fa278b1a72c80445ae8f207cbabdbc3
   - enabled: 1
-    path: Assets/Level1.unity
-    guid: a2d5a4e76611ce945a8cb99343e3b381
+    path: Assets/Levels/Level1.unity
+    guid: e86143eeebab35c4db98c59deaa8ac0e
   - enabled: 1
-    path: Assets/Level2.unity
-    guid: 58f4ef5dcd5bad945b58a46f62a0be30
+    path: Assets/Levels/Level2.unity
+    guid: ee725ebcc89d47d4ba42929ca434f467
   - enabled: 1
-    path: Assets/Level3.unity
-    guid: df3d998f66892b144be818067da3cb08
+    path: Assets/Levels/Level3.unity
+    guid: 4dc8ca495760b1d4b9b4c63510461042
+  - enabled: 1
+    path: Assets/Levels/Level4.unity
+    guid: 514d2d325b8dc854ba10d94f18a64f60
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Credits.unity
     guid: 48a0e6af31a89a9459483b95ea1ff1c2
+  - enabled: 1
+    path: Assets/Fail.unity
+    guid: c68c443bce7d20a469a3eb6320f931d7
